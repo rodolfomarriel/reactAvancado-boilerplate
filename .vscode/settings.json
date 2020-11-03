@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 18,
+  "terminal.integrated.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 120],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": false
+  }
+}
