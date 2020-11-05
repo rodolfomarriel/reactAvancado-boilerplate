@@ -16,6 +16,16 @@ This project uses lot of stuff as:
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 
+## Using Boilerplate
+
+Run on terminal:
+
+```bash
+yarn create next-app -e https://github.com/rodolfomarriel/reactAvancado-boilerplate.git
+```
+
+And the project is ready
+
 ## Getting Started
 
 First, run the development server:
