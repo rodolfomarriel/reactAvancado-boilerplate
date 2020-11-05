@@ -21,10 +21,10 @@ This project uses lot of stuff as:
 Run on terminal:
 
 ```bash
-yarn create next-app -e https://github.com/rodolfomarriel/reactAvancado-boilerplate.git
+yarn create next-app -e https://github.com/rodolfomarriel/reactAvancado-boilerplate
 ```
 
-And the project is ready
+And the project is ready.
 
 ## Getting Started
 
