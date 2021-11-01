@@ -46,7 +46,7 @@
     "@typescript-eslint/parser": "^4.28.5",
     "@typescript-eslint/parser": "^4.9.1",
     "babel-loader": "^8.2.2",
-    "babel-plugin-styled-components": "^1.11.1",
+    "babel-plugin-styled-components": "^1.13.3",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.1.4",
